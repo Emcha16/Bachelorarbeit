@@ -45,7 +45,7 @@ The core analysis is implemented in the Visual Studio Code 'Discourses_of_energy
 
 ## Requirements
 - Python 3.13.2
-- Visual Studio Code
+- Visual Studio Code or Jupyter Notebook
 - pandas
 - numpy
 - matplotlib
