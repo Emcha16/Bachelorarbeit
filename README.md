@@ -29,7 +29,6 @@
 The core analysis is implemented in the Visual Studio Code 'Discourses_of_energy_delay.ipynb'
  
  
- 
 ## Project Structure
  
 .
@@ -54,6 +53,7 @@ The core analysis is implemented in the Visual Studio Code 'Discourses_of_energy
 - nltk
 - wordcloud
 - vadersentiment
+
 
 ## Installation
 Install dependencies with:
