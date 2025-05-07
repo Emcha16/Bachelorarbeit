@@ -17,6 +17,7 @@ Table of Content
  
  
 Overview
+
 The bachelor thesis aims to understand the narratives underlying energy-saving obstruction behaviour. Therefore, Twitter data is analysed to identify and visualise discourses related to energy-saving delay. The development of categories and the following categorisation was performed manually beforehand. The categories are based and inspired by the 'Discourses of Climate Delay' framework by Lamb et al. (2020).
 The main objectives in the thesis are:
 - to classify tweets according to delay narrative categories
