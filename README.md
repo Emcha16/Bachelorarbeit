@@ -66,7 +66,11 @@ Usage
    - open "Discourses_of_energy_delay.ipynb" and run the cells step by step
 4. Adjust parameters:
    - if necessary, update file paths or parameters in the environment to match your data structure
-  
+
+
+Data
+Note: The data used for the analysis is a sample of 1000 tweets taken from the dataset used in Loschke et al. (2025) from the Öko-Institut. Please contact the author or the Öko-Institut for details or use your own dataset in the required fromat.
+
 
 Results
 The Python script produces:
@@ -74,6 +78,19 @@ The Python script produces:
 - statistics and visualisation of narrative categories within the twitter data
 - insights into engagement metrics, dominant discourses, and linguistic patterns
 
+
+Contact
+For questions please contact:
+- Emcha16
+
+
+License
+This project is for academic and research purposes. Please cite appropriately if you use or adapt the code. 
+
+
+References
+1. Lamb, W. F., Mattioli, G., Levi, S., Roberts, J. T., Capstick, S., Creutzig, F., Minx, J. C., Müller-Hansen, F., Culhane, T., & Steinberger, J. K. (2020). Discourses of climate delay. Global Sustainability, 3, e17. https://doi.org/10.1017/sus.2020.13
+2. Loschke, C. S., Braungardt, S., & Rieger, J. (2025). What motivates and demotivates energy savings in times of crisis? – An argument mining analysis using X/Twitter data. https://doi.org/10.21203/rs.3.rs-4544117/v1
 
 
 
