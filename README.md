@@ -25,7 +25,38 @@ The core analysis is implemented in the Visual Studio Code "Discourses_of_energy
 
 
 Project Structure
+
 .
+
 ├── Data/new_categories_corpus_tweets_energy_saving_random_sample_1000.csv
+
 ├── Discourses_of_energy_delay.ipynb
+
 └── README.md
+
+- Data/: Folder that contains tweet data, including meta data and categorisation
+- Discourse_of_energy_delay: Main notebook for data analysis and visualisation
+
+
+Requirements
+- Python 3.13.2
+- Visual Studio Code
+- pandas
+- numby
+- matplotlib
+- seaborn
+- nltk
+- wordcloud
+- vadersentiment
+
+     pip install pandas numpy matplotlib seaborn nltk wordcloud vadersentiment
+
+
+
+
+
+
+
+
+
+  
