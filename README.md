@@ -68,6 +68,12 @@ Usage
    - if necessary, update file paths or parameters in the environment to match your data structure
   
 
+Results
+The Python script produces:
+- an overview of the data, including data types
+- statistics and visualisation of narrative categories within the twitter data
+- insights into engagement metrics, dominant discourses, and linguistic patterns
+
 
 
 
