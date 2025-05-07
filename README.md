@@ -90,7 +90,7 @@ For questions, please contact:
 - Emcha16
 
 
-## License
+## License under CC by 4.0
 This project is for academic and research purposes. Please cite appropriately if you use or adapt the code. 
 
 
